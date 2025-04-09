@@ -63,7 +63,3 @@ npm start
 
 ### Checkout
 - `POST /api/checkout`
-
-## License
-
-This project is licensed under the MIT License.
