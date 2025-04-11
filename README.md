@@ -101,26 +101,3 @@ A scalable and secure RESTful API for an E-Commerce platform built with **Node.j
 | Method | Endpoint               | Description            |
 |--------|------------------------|------------------------|
 | POST   | `/api/checkout/payment`| Create Stripe session  |
-
----
-
-## 📁 Folder Structure
-
-```
-ecommerce-api/
-├── config/           # Database & Stripe setup
-├── controllers/      # Route logic
-├── middlewares/      # Auth and error handling
-├── models/           # Mongoose schemas
-├── routes/           # API route handlers
-├── utils/            # Utility functions
-├── .env              # Environment variables
-├── server.js         # Entry point
-└── README.md
-```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
